@@ -1,0 +1,40 @@
+#background{
+    background-image: url(imagens/fundo.png);
+}
+
+#cabecalho{
+    width: 860px;
+    background-color: #D4D3BE;
+    padding: 20px;
+}
+#rodape{
+    text-align: center;
+}
+a{
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 700;
+    padding: 15px;
+    color: gray;
+}
+
+div{
+    width: 900px
+}
+p{
+    padding: 5px;
+}
+
+h2{
+    padding: 10px;
+    color: #8d885f;
+    font-family: 'Times New Roman', Times, serif;
+}
+.fundo-texto{
+    background-color: #F2F2F2;
+}
+
+.img-texto{
+    padding: 1px;
+    border: 10px solid #8d885f;
+}
